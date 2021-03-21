@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DES Cipher</string>
+    <string name= "tv1">Enter text here:</string>
+    <string name= "tv2">Encryption Result</string>
+    <string name= "tv3">Decryption Result</string>
+    <string name= "tv4">Enter key here:</string>
+    <string name = "buttonOne">Encrypt</string>
+    <string name = "buttonTwo">Decrypt</string>
+</resources>
